@@ -4,7 +4,7 @@ This PHP script takes a specifically formated TXT file and converts it into CSV,
 ## Important to know
 This script assume that all your cards are in English and will format the CSV file accordingly.
 
-## How the TXT file should be formated
+## How the TXT file should be formatted
 Example entry:
 
 > 1 A Little Chat (snc) snc no 47
