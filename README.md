@@ -1,6 +1,9 @@
 # Moxfield Collection Magic The Gathering CSV Generator
 This PHP script takes a specifically formated TXT file and converts it into CSV, so that it can be imported into the Moxfield Collection feature.
 
+## Important to know
+This script assume that all your cards are in English and will format the CSV file accordingly.
+
 ## How the TXT file should be formated
 Example entry:
 
