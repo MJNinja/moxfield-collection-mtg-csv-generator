@@ -37,4 +37,6 @@ foreach ($mtg_card_array as $card) {
 
 /* Close CSV File */
 fclose($file);
+
+echo 'Done';
 ?>
